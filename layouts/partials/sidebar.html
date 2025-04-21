@@ -1,0 +1,20 @@
+<aside>
+  <h2>Posts</h2>
+  <ul>
+    {{ range (where .Site.RegularPages "Type" "posts") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+
+<!-- Top Picks Sidebar Box -->
+<div class="top-picks" style="border: 1px solid #ccc; padding: 1rem; margin-bottom: 2rem; border-radius: 6px; background-color: var(--sidebar-bg); color: var(--text-color);">
+  <h3 style="margin-top: 0;">Top Picks</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li><a href="#" target="_blank">Razer Blade 15 – Best ML Laptop</a></li>
+    <li><a href="#" target="_blank">DJI Mavic 3E – Field Drone</a></li>
+    <li><a href="#" target="_blank">Raspberry Pi 4 Kit – DIY Sensor Hub</a></li>
+  </ul>
+</div>
+
+
+</aside>

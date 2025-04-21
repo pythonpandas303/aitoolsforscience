@@ -1,0 +1,9 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "themes/future-imperfect"]
+	path = themes/future-imperfect
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/hugo-clarity"]
+	path = themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity

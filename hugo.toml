@@ -1,0 +1,23 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "AI Tools for Science"
+theme = "hugo-clarity"
+
+[params]
+  description = "Explore the best AI-powered gear, guides, and tools for scientific research and data collection."
+  author = "Your Name"
+  favicon = "favicon.ico"
+  defaultTheme = "light"
+  dateFormat = "2006-01-02"
+  customCSS = ["css/custom.css"]
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Top Picks For Researchers"
+    url = "/top-picks/"
+    weight = 2
+
