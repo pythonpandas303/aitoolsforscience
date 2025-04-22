@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on AI Tools for Science</title>
+    <link>https://aitoolsforscience.com/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on AI Tools for Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://aitoolsforscience.com/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build Your Own Scientific Sensors with Raspberry Pis (2025 Edition)</title>
+      <link>https://aitoolsforscience.com/posts/raspberry-pi-scientific-sensors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitoolsforscience.com/posts/raspberry-pi-scientific-sensors/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;Raspberry Pi on lab bench&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://aitoolsforscience.com/images/rpi-lab-hero.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In recent years, the &lt;strong&gt;Raspberry Pi&lt;/strong&gt; has become one of the most powerful, low-cost tools for scientific data collection, monitoring, and analysis. Whether you&amp;rsquo;re measuring stream temperatures in a remote watershed, tracking air quality in an urban corridor, or logging soil moisture in an agricultural field — a Raspberry Pi can do the job for &lt;strong&gt;under $100&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This guide walks through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What Raspberry Pis are best for scientific use&lt;/li&gt;
+&lt;li&gt;Popular sensor types and applications&lt;/li&gt;
+&lt;li&gt;Example projects (with code)&lt;/li&gt;
+&lt;li&gt;How to set up remote access &amp;amp; networking&lt;/li&gt;
+&lt;li&gt;Tips for reliable, field-deployable sensor systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-a-raspberry-pi&#34;&gt;What is a Raspberry Pi?&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;Raspberry Pi&lt;/strong&gt; is a credit-card sized computer that runs Linux, has GPIO pins (General Purpose Input/Output), and supports a wide range of sensors. It’s cheap, durable, and programmable with Python.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

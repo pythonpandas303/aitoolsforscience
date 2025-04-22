@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Computing on AI Tools for Science</title>
+    <link>https://aitoolsforscience.com/tags/scientific-computing/</link>
+    <description>Recent content in Scientific Computing on AI Tools for Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://aitoolsforscience.com/tags/scientific-computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Laptops for Machine Learning in the Sciences (2025)</title>
+      <link>https://aitoolsforscience.com/posts/best-laptops-machine-learning-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aitoolsforscience.com/posts/best-laptops-machine-learning-2025/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;Laptop on lab bench&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://aitoolsforscience.com/images/laptop-lab-hero.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re a scientist working with data — whether it’s genetics, wildlife tracking, climate models, or bioacoustics — you’ve probably heard about machine learning. Maybe you’ve even tinkered with a few models in R or Python. But when it&amp;rsquo;s time to move beyond your office desktop or the campus cluster, you need a &lt;strong&gt;laptop that can handle real ML workloads&lt;/strong&gt;. We often find ourselves siloed in the field by inadequate hardware.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
