@@ -1,21 +1,25 @@
-main {
-  margin-top: 80px; 
-  padding-left: 20px; 
-  box-sizing: border-box; 
+:root {
+    --content-gap: 120px;
+    --nav-padding: 30px;
 }
 
-body {
-  margin-left: 20px; 
+.main {
+    padding-top: var(--content-gap) !important;
+    padding-left: var(--nav-padding) !important;
+    padding-right: var(--nav-padding) !important;
+}
+
+.post-content {
+    margin-top: var(--content-gap) !important;
+    padding: 0 var(--nav-padding) !important;
 }
 
 article img {
-  display: inline-block;
-  vertical-align: top;
+  float: left;
+  margin: 0 1.5rem 1.5rem 0;
   width: 525px;
   height: 375px;
   object-fit: cover;
-  margin: 0 1.5rem 1rem 0;
   border-radius: 4px;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
 }
-
